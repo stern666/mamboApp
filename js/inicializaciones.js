@@ -37,7 +37,7 @@ $(document).on('pageinit', '#LoginPage', function () {
 			  pMostrarDetallePedido();
 				//pMostrarDetallePedidoAnterior();
 			  //$("#pGridPedidosAnteriores").data("kendoGrid").dataSource.read();
-			  //$('#pGridPedidosAnteriores').data('kendoGrid').refresh(); 
+			  //$('#pGridPedidosAnteriores').data('kendoGrid').refresh(); cometario
 
 			}else if (localStorage["pantalla"] == "pedidoNuevoAnteriores") {
 
