@@ -3,8 +3,8 @@ var tocado = 0;
 
 
 /*$(document).on('mobileinit', function(){
-$.mobile.defaultPageTransition = 'pop';
-$.mobile.page.prototype.options.addBackBtn = true;
+//$.mobile.defaultPageTransition = 'pop';
+//$.mobile.page.prototype.options.addBackBtn = true;
 });*/
 
 $(document).keydown(function(e) {
